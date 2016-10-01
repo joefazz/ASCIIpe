@@ -1,3 +1,6 @@
+#ASCIIpe
+A simple maze that runs on the unix terminal
+
 This is what I came up with for my first year of univerisity coursework. It is a randomly generating
 maze game based on a questionable recursive backtracking algorithm. The code is of my own design and
 is 100% my own. The aim of the coursework was to make sure that our understanding of C++ was sound.
