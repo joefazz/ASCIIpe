@@ -1,5 +1,5 @@
 #ASCIIpe
-A simple maze that runs on the unix terminal
+A simple maze that runs on the unix terminal.
 
 This is what I came up with for my first year of univerisity coursework. It is a randomly generating
 maze game based on a questionable recursive backtracking algorithm. The code is of my own design and
