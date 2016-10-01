@@ -86,7 +86,12 @@ int main(int argc, const char * argv[]) {
     if (IntroMenu() == 1) {
         GameLoop(MAZEHEIGHT, MAZEWIDTH);
     }
-    
+    else {
+        wclear(stdscr);
+        endwin();
+        
+        return 0;
+    }
     
     wclear(stdscr);
     endwin();
@@ -170,10 +175,10 @@ int IntroMenu() {
             switch (i) {
                 case 0:
                     return 1;
+//                case 1:
+//                    ReadHighScores();
+//                    break;
                 case 1:
-                    //ReadHighScores();
-                    break;
-                case 2:
                     i = 4;
                     break;
             }
@@ -182,6 +187,7 @@ int IntroMenu() {
         
     }
     while (i != 4);
+    
     return 0;
 }
 
