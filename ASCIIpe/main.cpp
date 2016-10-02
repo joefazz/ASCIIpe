@@ -4,7 +4,6 @@
 //
 //  Created by Joe Fazzino on 08/03/2016.
 //  Copyright © 2016 Joe Fazzino. All rights reserved.
-// Hi Selin
 
 #include <iostream>
 #include <fstream>
