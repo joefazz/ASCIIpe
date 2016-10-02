@@ -15,3 +15,5 @@ end up having the time to complete. One day I hope to come back to this project 
 such as a high score tracker and having a 'chaser' character a la Pacman. 
 
 In this repo I have also included the report write up that I submitted with the code.
+
+Hi Selin.
